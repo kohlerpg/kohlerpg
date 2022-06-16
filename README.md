@@ -1,4 +1,4 @@
-### @kohlerp - Systems Programmer
+### @kohlerpg - Systems Programmer
 
 <p>
 Based in Las Vegas, Nevada I Have had the opportunity to wear many hats during my IT journey (which started with babysitting a room full of VAX 11/750s).
