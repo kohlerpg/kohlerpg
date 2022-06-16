@@ -1,12 +1,14 @@
 ### @kohlerp - Systems Programmer
----
+
 <p>
 Based in Las Vegas, Nevada I Have had the opportunity to wear many hats during my IT journey (which started with babysitting a room full of VAX 11/750s).
 Interested in anything relating to technology and science with astronomy being at the forefront. An amatuer photographer that really needs to start 
 taking more shots. This is my personal account which I have been using to learn Jekyll among other things.  
 </p>
 
+
 > System debugging, like astronomy, has always been done chiefly at night.   -Fred Brooks 
+
 
 ---
 #### Languages and Tools:
